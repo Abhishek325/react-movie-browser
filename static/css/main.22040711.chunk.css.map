@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/UI/Table/Table.module.css"],"names":[],"mappings":"AAAA,8BACE,cACF","file":"main.22040711.chunk.css","sourcesContent":[".table-container {\n  font-size: 12px;\n}\n"]}
